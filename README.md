@@ -1,10 +1,10 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+<!-- [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io) -->
 <h1 align="center">Hi 👋, I'm Nikhil Singh</h1>
 <h3 align="center">A passionate frontend developer and Graphic Designer from India</h3>
 
 <p align="left"> <img src="https://gifdb.com/gif/coding-girl-animation-fe7t4gejurmtof8v.html" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
 
 - 🔭 I’m currently working on [Diabetes Predictor Website](https://github.com/singhnikhil27/Diabetes-Prediction-Using-ML.git)
 
